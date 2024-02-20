@@ -85,12 +85,12 @@
 
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir4976&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir49762&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&hide=TeX&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=amir4976&hide=TeX&layout=compact&theme=codeSTACKr&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir49762&hide=TeX&layout=compact&theme=dark&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=amir49762&hide=TeX&layout=compact&theme=codeSTACKr&bg_color=0d1117&hide_border=true)
 
 ### contect with me
 [![Instagram Badge](https://img.shields.io/badge/-amir_h_ahmadi_i.m-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amir_h_ahmadi_i.m/)](https://instagram.com/amir_h_ahmadi_i.m)
@@ -102,9 +102,7 @@
 
 <!--[![image](https://i.ibb.co/fMct9Nz/github-cover2-01.jpg)](https://www.linkpicture.com/view.php?img=LPic64eb820d2fb37225043070)-->
 
-<h1 align="center" >
-<a href="https://git.io/typing-svg"><img src="/Untitled-3-01.jpg" alt="Typing" /></a>
-</h1>
+
 
 
 
